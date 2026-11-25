@@ -1,0 +1,70 @@
+{
+  "schema": "POLY-MASTER-CERT-1.0",
+  "mode": "matrix_poly_laplace_ivp_cert",
+  "cert_id": "m1_ivp_jc_order3_ep",
+  "block_dim_d": 1,
+  "order_n": 3,
+  "P_coeffs": [
+    [
+      [
+        "64"
+      ]
+    ],
+    [
+      [
+        "48"
+      ]
+    ],
+    [
+      [
+        "12"
+      ]
+    ],
+    [
+      [
+        "1"
+      ]
+    ]
+  ],
+  "Q_coeffs": [
+    [
+      [
+        "40"
+      ]
+    ],
+    [
+      [
+        "12"
+      ]
+    ],
+    [
+      [
+        "1"
+      ]
+    ]
+  ],
+  "claimed_initial_derivs": [
+    [
+      [
+        "1"
+      ]
+    ],
+    [
+      [
+        "0"
+      ]
+    ],
+    [
+      [
+        "-8"
+      ]
+    ]
+  ],
+  "claimed_companion_trace": "-12",
+  "claimed_companion_last_row_block_sum": [
+    [
+      "32"
+    ]
+  ],
+  "claimed_ode_residual_zero_at_t0": true
+}

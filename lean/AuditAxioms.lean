@@ -1,0 +1,20 @@
+import PolyMasterEq
+
+#print axioms PolyMasterEq.two_qubit_omega_sq_sum_and_diff
+#print axioms PolyMasterEq.two_qubit_omega_sq_product
+#print axioms PolyMasterEq.two_qubit_eta_vieta_identities
+#print axioms PolyMasterEq.two_qubit_residue_weights_sum_one
+#print axioms PolyMasterEq.two_qubit_poly_order_budget
+#print axioms PolyMasterEq.two_qubit_singularity_criterion_exact
+#print axioms PolyMasterEq.two_qubit_critical_boundary_sum_one
+#print axioms PolyMasterEq.fig3a_periodic_singular_5_4_3
+#print axioms PolyMasterEq.fig3b_periodic_nonsingular_5_3_4
+#print axioms PolyMasterEq.odd_even_ratio_never_singular
+#print axioms PolyMasterEq.critical_zeta_minus_zero_iff
+#print axioms PolyMasterEq.trivial_interaction_order_drop
+#print axioms PolyMasterEq.jc_similarity_involution_and_diag
+#print axioms PolyMasterEq.jc_poly_u_rational_expansion
+#print axioms PolyMasterEq.jc_poly_Q3_vieta_exact
+#print axioms PolyMasterEq.jc_exceptional_point_iff
+#print axioms PolyMasterEq.jc_nonmarkovian_singularity_regime
+#print axioms PolyMasterEq.jc_exceptional_point_jordan3_nilpotent

@@ -1,0 +1,17 @@
+{
+  "schema": "POLY-MASTER-CERT-1.0",
+  "mode": "singularity_periodicity_hierarchy_cert",
+  "cert_id": "m3_tier3_nonperiodic_nonsing_crit_irr",
+  "omega_S_sq": "18",
+  "omega_E_sq": "8",
+  "omega_SE_prod": "12",
+  "coupling_J_sq": "10",
+  "claimed_sum_cos_sq": "1",
+  "claimed_necessary_singularity_holds": true,
+  "claimed_on_critical_boundary": true,
+  "claimed_ratio_omega_sq": "1/5",
+  "claimed_ratio_is_rational": false,
+  "claimed_ratio_q_minus": 0,
+  "claimed_ratio_q_plus": 0,
+  "claimed_tier": "nonperiodic_and_nonsingular"
+}

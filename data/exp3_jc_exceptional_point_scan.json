@@ -1,0 +1,84 @@
+{
+  "rows": [
+    {
+      "lambda_over_g0": 0.25,
+      "four_eps_sq": -1.75,
+      "regime": "singular"
+    },
+    {
+      "lambda_over_g0": 0.5,
+      "four_eps_sq": -3.0,
+      "regime": "singular"
+    },
+    {
+      "lambda_over_g0": 0.75,
+      "four_eps_sq": -3.75,
+      "regime": "singular"
+    },
+    {
+      "lambda_over_g0": 1.0,
+      "four_eps_sq": -4.0,
+      "regime": "singular"
+    },
+    {
+      "lambda_over_g0": 1.25,
+      "four_eps_sq": -3.75,
+      "regime": "singular"
+    },
+    {
+      "lambda_over_g0": 1.5,
+      "four_eps_sq": -3.0,
+      "regime": "singular"
+    },
+    {
+      "lambda_over_g0": 1.75,
+      "four_eps_sq": -1.75,
+      "regime": "singular"
+    },
+    {
+      "lambda_over_g0": 2.0,
+      "four_eps_sq": 0.0,
+      "regime": "EP"
+    },
+    {
+      "lambda_over_g0": 2.25,
+      "four_eps_sq": 2.25,
+      "regime": "overdamped"
+    },
+    {
+      "lambda_over_g0": 2.5,
+      "four_eps_sq": 5.0,
+      "regime": "overdamped"
+    },
+    {
+      "lambda_over_g0": 2.75,
+      "four_eps_sq": 8.25,
+      "regime": "overdamped"
+    },
+    {
+      "lambda_over_g0": 3.0,
+      "four_eps_sq": 12.0,
+      "regime": "overdamped"
+    },
+    {
+      "lambda_over_g0": 3.25,
+      "four_eps_sq": 16.25,
+      "regime": "overdamped"
+    },
+    {
+      "lambda_over_g0": 3.5,
+      "four_eps_sq": 21.0,
+      "regime": "overdamped"
+    },
+    {
+      "lambda_over_g0": 3.75,
+      "four_eps_sq": 26.25,
+      "regime": "overdamped"
+    },
+    {
+      "lambda_over_g0": 4.0,
+      "four_eps_sq": 32.0,
+      "regime": "overdamped"
+    }
+  ]
+}

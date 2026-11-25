@@ -1,0 +1,197 @@
+{
+  "count": 16,
+  "certificates": [
+    {
+      "cert_id": "m1_ivp_twoqubit_V12_5_4_3",
+      "mode": "matrix_poly_laplace_ivp_cert",
+      "verify_ms": 0.648,
+      "summary": {
+        "verified": true,
+        "mode": "matrix_poly_laplace_ivp_cert",
+        "d": 2,
+        "n": 4,
+        "companion_trace": "0"
+      }
+    },
+    {
+      "cert_id": "m1_ivp_twoqubit_V3_5_4_3",
+      "mode": "matrix_poly_laplace_ivp_cert",
+      "verify_ms": 0.347,
+      "summary": {
+        "verified": true,
+        "mode": "matrix_poly_laplace_ivp_cert",
+        "d": 1,
+        "n": 5,
+        "companion_trace": "0"
+      }
+    },
+    {
+      "cert_id": "m1_ivp_twoqubit_V12_order3_eq63",
+      "mode": "matrix_poly_laplace_ivp_cert",
+      "verify_ms": 0.463,
+      "summary": {
+        "verified": true,
+        "mode": "matrix_poly_laplace_ivp_cert",
+        "d": 2,
+        "n": 3,
+        "companion_trace": "0"
+      }
+    },
+    {
+      "cert_id": "m1_ivp_jc_order3_ep",
+      "mode": "matrix_poly_laplace_ivp_cert",
+      "verify_ms": 0.181,
+      "summary": {
+        "verified": true,
+        "mode": "matrix_poly_laplace_ivp_cert",
+        "d": 1,
+        "n": 3,
+        "companion_trace": "-12"
+      }
+    },
+    {
+      "cert_id": "m2_crit_J0_V12_lvn_order4_to_1",
+      "mode": "two_qubit_critical_factorization_cert",
+      "verify_ms": 0.278,
+      "summary": {
+        "verified": true,
+        "mode": "two_qubit_critical_factorization_cert",
+        "subspace": "V12",
+        "order_before": 4,
+        "order_after": 1
+      }
+    },
+    {
+      "cert_id": "m2_crit_J0_V3_order5_to_1",
+      "mode": "two_qubit_critical_factorization_cert",
+      "verify_ms": 0.115,
+      "summary": {
+        "verified": true,
+        "mode": "two_qubit_critical_factorization_cert",
+        "subspace": "V3",
+        "order_before": 5,
+        "order_after": 1
+      }
+    },
+    {
+      "cert_id": "m2_crit_wE0_V3_order5_to_3",
+      "mode": "two_qubit_critical_factorization_cert",
+      "verify_ms": 0.136,
+      "summary": {
+        "verified": true,
+        "mode": "two_qubit_critical_factorization_cert",
+        "subspace": "V3",
+        "order_before": 5,
+        "order_after": 3
+      }
+    },
+    {
+      "cert_id": "m2_crit_wS0_wE0_V3_order5_to_2",
+      "mode": "two_qubit_critical_factorization_cert",
+      "verify_ms": 0.124,
+      "summary": {
+        "verified": true,
+        "mode": "two_qubit_critical_factorization_cert",
+        "subspace": "V3",
+        "order_before": 5,
+        "order_after": 2
+      }
+    },
+    {
+      "cert_id": "m3_tier1_periodic_singular_5_4_3",
+      "mode": "singularity_periodicity_hierarchy_cert",
+      "verify_ms": 0.05,
+      "summary": {
+        "verified": true,
+        "mode": "singularity_periodicity_hierarchy_cert",
+        "sum_cos_sq": "1",
+        "ratio_sq": "1/9",
+        "tier": "periodic_and_singular"
+      }
+    },
+    {
+      "cert_id": "m3_tier2_periodic_nonsing_5_3_4",
+      "mode": "singularity_periodicity_hierarchy_cert",
+      "verify_ms": 0.049,
+      "summary": {
+        "verified": true,
+        "mode": "singularity_periodicity_hierarchy_cert",
+        "sum_cos_sq": "1",
+        "ratio_sq": "1/4",
+        "tier": "periodic_and_nonsingular"
+      }
+    },
+    {
+      "cert_id": "m3_tier3_nonperiodic_nonsing_crit_irr",
+      "mode": "singularity_periodicity_hierarchy_cert",
+      "verify_ms": 0.046,
+      "summary": {
+        "verified": true,
+        "mode": "singularity_periodicity_hierarchy_cert",
+        "sum_cos_sq": "1",
+        "ratio_sq": "1/5",
+        "tier": "nonperiodic_and_nonsingular"
+      }
+    },
+    {
+      "cert_id": "m3_exterior_nonsingular_6_2_3",
+      "mode": "singularity_periodicity_hierarchy_cert",
+      "verify_ms": 0.063,
+      "summary": {
+        "verified": true,
+        "mode": "singularity_periodicity_hierarchy_cert",
+        "sum_cos_sq": "882/1825",
+        "ratio_sq": "25/73",
+        "tier": "nonsingular_nonperiodic"
+      }
+    },
+    {
+      "cert_id": "m4_jc_nonmarkovian_singular_g4_l2",
+      "mode": "jaynes_cummings_exceptional_point_cert",
+      "verify_ms": 0.231,
+      "summary": {
+        "verified": true,
+        "mode": "jaynes_cummings_exceptional_point_cert",
+        "four_eps_sq": "-12",
+        "regime": "nonmarkovian_singular_oscillatory",
+        "ep_jordan3": false
+      }
+    },
+    {
+      "cert_id": "m4_jc_exceptional_point_g2_l4",
+      "mode": "jaynes_cummings_exceptional_point_cert",
+      "verify_ms": 0.258,
+      "summary": {
+        "verified": true,
+        "mode": "jaynes_cummings_exceptional_point_cert",
+        "four_eps_sq": "0",
+        "regime": "critical_exceptional_point",
+        "ep_jordan3": true
+      }
+    },
+    {
+      "cert_id": "m4_jc_exceptional_point_g3_2_l3",
+      "mode": "jaynes_cummings_exceptional_point_cert",
+      "verify_ms": 0.259,
+      "summary": {
+        "verified": true,
+        "mode": "jaynes_cummings_exceptional_point_cert",
+        "four_eps_sq": "0",
+        "regime": "critical_exceptional_point",
+        "ep_jordan3": true
+      }
+    },
+    {
+      "cert_id": "m4_jc_overdamped_nonsing_g1_l6",
+      "mode": "jaynes_cummings_exceptional_point_cert",
+      "verify_ms": 0.176,
+      "summary": {
+        "verified": true,
+        "mode": "jaynes_cummings_exceptional_point_cert",
+        "four_eps_sq": "24",
+        "regime": "overdamped_nonsingular",
+        "ep_jordan3": false
+      }
+    }
+  ]
+}

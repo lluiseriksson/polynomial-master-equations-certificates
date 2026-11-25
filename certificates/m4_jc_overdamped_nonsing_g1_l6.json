@@ -1,0 +1,30 @@
+{
+  "schema": "POLY-MASTER-CERT-1.0",
+  "mode": "jaynes_cummings_exceptional_point_cert",
+  "cert_id": "m4_jc_overdamped_nonsing_g1_l6",
+  "gamma_0": "1",
+  "lambda_bw": "6",
+  "claimed_four_eps_sq": "24",
+  "claimed_u_poly_coeffs": [
+    "3",
+    "6",
+    "1"
+  ],
+  "claimed_v_poly_coeffs": [
+    "72",
+    "84",
+    "18",
+    "1"
+  ],
+  "claimed_q_u_coeffs": [
+    "6",
+    "1"
+  ],
+  "claimed_q_v_coeffs": [
+    "78",
+    "18",
+    "1"
+  ],
+  "claimed_regime": "overdamped_nonsingular",
+  "claimed_jordan_order3_nilpotent": false
+}

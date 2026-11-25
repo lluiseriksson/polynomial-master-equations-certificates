@@ -1,0 +1,89 @@
+{
+  "schema": "POLY-MASTER-CERT-1.0",
+  "mode": "two_qubit_critical_factorization_cert",
+  "cert_id": "m2_crit_J0_V12_lvn_order4_to_1",
+  "omega_S": "3",
+  "omega_E": "2",
+  "coupling_J": "0",
+  "subspace": "V12",
+  "regime_label": "trivial_interaction_J0",
+  "R_factor_coeffs": [
+    [
+      [
+        "0",
+        "-12"
+      ],
+      [
+        "12",
+        "0"
+      ]
+    ],
+    [
+      [
+        "4",
+        "0"
+      ],
+      [
+        "0",
+        "4"
+      ]
+    ],
+    [
+      [
+        "0",
+        "-3"
+      ],
+      [
+        "3",
+        "0"
+      ]
+    ],
+    [
+      [
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "1"
+      ]
+    ]
+  ],
+  "P_tilde_coeffs": [
+    [
+      [
+        "0",
+        "3"
+      ],
+      [
+        "-3",
+        "0"
+      ]
+    ],
+    [
+      [
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "1"
+      ]
+    ]
+  ],
+  "Q_tilde_coeffs": [
+    [
+      [
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "1"
+      ]
+    ]
+  ],
+  "claimed_order_before": 4,
+  "claimed_order_after": 1,
+  "claimed_factorization_exact": true
+}

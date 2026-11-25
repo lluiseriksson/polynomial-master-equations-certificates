@@ -1,0 +1,6 @@
+{"version": "1.3.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "poly_master_eq",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

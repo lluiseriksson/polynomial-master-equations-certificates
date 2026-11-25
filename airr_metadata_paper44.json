@@ -1,0 +1,18 @@
+{
+  "title": "Certified Verification of Polynomial Master Equations and Critical Solutions in Open Quantum Systems",
+  "authors": ["Lluis Eriksson"],
+  "abstract": "Miku Ishizaki and Jaeha Lee (arXiv:2611.33027, Nov 2026) developed a locally deterministic matrix-polynomial formulation of non-Markovian open quantum master equations P(D)E(t) = 0 derived from P(s)(LE)(s) = Q(s), establishing exact order-5 differential equations and critical-parameter order reductions for a coupled two-qubit model, a sharp three-tier singularity/periodicity hierarchy governed by odd/odd rational singular-value ratios, and order-3 polynomial equations exhibiting a non-diagonalizable Jordan exceptional point at lambda = 2 gamma_0 in the unbounded multi-mode Jaynes-Cummings model. We construct a standalone zero-dependency Lean 4.35.0 formalization of 18 core polynomial-ring, 4x4/3x3 matrix, singularity, parity-obstruction, and Jordan-nilpotency theorems (zero sorry, zero warnings, zero Classical.choice) paired with an exact-Q four-mode certificate verifier (POLY-MASTER-CERT-1.0). Across 16 canonical certificates (0.046-0.648 ms, total 3.42 ms), all invariants replay identically over Q while rejecting 60/60 live adversarial forgery attacks.",
+  "category": "quant-ph",
+  "license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "repository_url": "https://github.com/lluiseriksson/polynomial-master-equations-certificates",
+  "release_tag": "v1.0.0",
+  "operator_conflict": true,
+  "ai_assistance_disclosure": "Prepared by sole author Lluis Eriksson with AI coding, formalization, and drafting assistance from Google Antigravity; all Lean 4.35.0 proofs, exact-Q certificates, and adversarial tests were independently compiled and machine-verified locally.",
+  "target_reference": {
+    "arxiv_id": "2611.33027",
+    "authors": ["Miku Ishizaki", "Jaeha Lee"],
+    "title": "Polynomial Master Equations of Open Quantum Systems and an Analysis on the Critical Solutions",
+    "date": "2026-11-24"
+  }
+}

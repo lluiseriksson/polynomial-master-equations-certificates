@@ -1,0 +1,30 @@
+{
+  "schema": "POLY-MASTER-CERT-1.0",
+  "mode": "jaynes_cummings_exceptional_point_cert",
+  "cert_id": "m4_jc_nonmarkovian_singular_g4_l2",
+  "gamma_0": "4",
+  "lambda_bw": "2",
+  "claimed_four_eps_sq": "-12",
+  "claimed_u_poly_coeffs": [
+    "4",
+    "2",
+    "1"
+  ],
+  "claimed_v_poly_coeffs": [
+    "32",
+    "24",
+    "6",
+    "1"
+  ],
+  "claimed_q_u_coeffs": [
+    "2",
+    "1"
+  ],
+  "claimed_q_v_coeffs": [
+    "16",
+    "6",
+    "1"
+  ],
+  "claimed_regime": "nonmarkovian_singular_oscillatory",
+  "claimed_jordan_order3_nilpotent": false
+}
